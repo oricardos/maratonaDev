@@ -1,2 +1,2 @@
 # maratonaDev
-projeto realizado na Maratona Dev da Rocketseat.
+Projeto realizado na 3ª edição da Maratona Dev da Rocketseat.
