@@ -109,7 +109,7 @@ main .donors {
 }
 
 .donor p {
-    margin-top: 24px;
+    margin: 40px 0;
     font-size: 14px;
     font-weight: 600;
 }
@@ -141,7 +141,7 @@ section.form.hide {
     opacity: 0;
     visibility: hidden;
     height: 0;
-    margin-top: -100px;
+    margin-top: -70px;
 }
 
 footer {

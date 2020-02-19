@@ -1,0 +1,26 @@
+{
+  "name": "edicao3",
+  "version": "1.0.0",
+  "description": "Projeto realizado na 3ª edição da Maratona Dev da Rocketseat.",
+  "main": "script.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oricardos/maratonaDev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oricardos/maratonaDev/issues"
+  },
+  "homepage": "https://github.com/oricardos/maratonaDev#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2",
+    "nunjucks": "^3.2.0",
+    "pg": "^7.18.1"
+  }
+}
